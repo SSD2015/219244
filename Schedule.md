@@ -1,7 +1,7 @@
 ### Roadmap for Next Four Weeks
-We are starting Elaboration Iteration 1.  Your team will identify the main features in implement and select which to implement in EL1. To keep all teams on track, TAs and I will choose a common set of features we want all projects to implement.
+We are starting Elaboration Iteration 1.  Your team will identify features to implement in EL1. To keep all teams on track, TAs and I will choose a common set of features we want all projects to implement.
 
-By the end of EL1 you must have a running, deployable application.  You must also have good documentation, including refined, nearly complete set of requirements (as UC and Supplemental Requirements), and some design documentation, which you will bundle into a _Software Architecture Document_.  The SAD is for developers, so it isn't as rigorous as the SRS, but it should be accurate and complete.  Record important _design decisions_ in the SAD.  Your Web Frameworks review is a design decision.
+By the end of EL1 you must have a running, deployable application.  You must also have good documentation, including a better set of requirements (as UC and Supplemental Requirements) and some design documentation, which you will bundle into a _Software Architecture Document_.  The SAD is for developers, so it isn't as rigorous as the SRS, but it should be accurate and complete.  Record important _design decisions_ in the SAD.  Your Web Frameworks review is a design decision.
 
 During EL1, we'll study some useful technology.  I hope to cover Unit Testing, Logging, Persistence, and a few design patterns.  We will introduce and require teams to use _Issue Tracking_ and Milestones using Github and Waffle.io, and Git _branches_ for development. 
 
