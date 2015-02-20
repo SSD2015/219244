@@ -9,7 +9,7 @@ During EL1, we'll study some useful technology.  I hope to cover Unit Testing, L
 ### Week 6 Lab
 1. TA review of your progress. Be prepared to explain what you've done and what you plan to do this week (see [[Iteration Workflow]]).
 2. Introduction to Design Patterns, with some (hopefully) useful patterns.
-(tba)
+3. (tba)
 
 ---
 
