@@ -4,6 +4,11 @@ We are starting Elaboration Iteration 1.  Your team will identify the main featu
 By the end of EL1 you must have a running, deployable application.  You must also have good documentation, including refined, nearly complete set of requirements (as UC and Supplemental Requirements), and some design documentation, which you will bundle into a _Software Architecture Document_.  The SAD is for developers, so it isn't as rigorous as the SRS, but it should be accurate and complete.  Record important _design decisions_ in the SAD.  Your Web Frameworks review is a design decision.
 
 During EL1, we'll study some useful technology.  I hope to cover Unit Testing, Logging, Persistence, and a few design patterns.  We will introduce and require teams to use _Issue Tracking_ using Github and Waffle.io, and Git _branches_ for development. 
+---
+### Week 6 Lab
+1. TA review of your progress. Be prepared to explain what you've done and what you plan to do this week (see [[Iteration Workflow]]).
+2. Introduction to Design Patterns, with some (hopefully) useful patterns.
+(tba)
 
 ---
 
@@ -12,15 +17,20 @@ During EL1, we'll study some useful technology.  I hope to cover Unit Testing, L
   * You should be able to relate your Domain Model to your Use Cases and Mock-up.  They should be consistent.
 2. (postponed) Introduction to Play! framework. 
 3. Practice drawing System Sequence Diagrams.
-4. Introduction to Design Patterns.
-5. Overview of Elaboration Iteration 1 (EL1), its goals, and writing an Iteration Plan for EL1.
-6. Intro to issue tracking for recording tasks and progress.
+4. Overview of Elaboration Iteration 1 (EL1), its goals, and writing an Iteration Plan for EL1.
+5. Intro to issue tracking for recording tasks and progress.
 
 #### Week 5 Assignment
-* Meet with team to choose goals, tasks, and milestone(s) for this iteration.
+* Meet with team to choose goals, tasks, and milestones for this iteration.
 * Create Iteration Plan for EL1 using template. Put it on your Wiki and link to your project README file.
-* Record backlog and milestones in Github issue tracker.
+    * **Due:** Friday (20th) 12:00.  You may revise it later.
+* Record backlog and tasks in Github as **Issues**. Record Milestones as Github Milestones (in issue tracker).
 * Work on your tasks!
+* Iteration EL1 ends in 2 weeks (3 March). You must have/do:
+    * deployable web application
+    * demo the application
+    * Use Cases for EL1 written in "fully dressed" form.
+    * Updated domain model, including class and sequence diagrams, _accurate_ glossary, some software design notes in SAD
 
 ---
 
