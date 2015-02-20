@@ -24,14 +24,15 @@ During EL1, we'll study some useful technology.  I hope to cover Unit Testing, L
 #### Week 5 Assignment
 * Meet with team to choose goals, tasks, and milestones for this iteration.
 * Create Iteration Plan for EL1 using template. Put it on your Wiki and link to your project README file.
-    * **Due:** Friday (20th) 12:00.  You may revise it later.
+    * **Due:** Friday (20th) 21:00.  You may revise it later.
 * Record backlog and tasks in Github as **Issues**. Record Milestones as Github Milestones (in issue tracker).
-* Work on your tasks!
+* Work on your tasks. The person doing task should "assign" it to himself (on Github), and change status as work proceeds. 
+    * This is easy to do on waffle.io and it updates the issues on Github.
 * Iteration EL1 ends in 2 weeks (3 March). You must have/do:
     * deployable web application
     * demo the application
     * Use Cases for EL1 written in "fully dressed" form.
-    * Updated domain model, including class and sequence diagrams, _accurate_ glossary, some software design notes in SAD
+    * Updated domain model, including class and sequence diagrams, _accurate_ glossary, some software design notes in SAD.
 
 ---
 
