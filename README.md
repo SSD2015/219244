@@ -4,7 +4,7 @@
 | __[Wiki](https://github.com/SSD2015/219244/wiki)__ | Class wiki for helpful docs, templates, and assignment https://github.com/SSD2015/219244/wiki |
 | __Weekly Lab Materials__ | weekly folders in this repository (SSD2015/219244). Formerly at http://se.cpe.ku.ac.th/219244 |
 
-## Feedback and Results
+#### Feedback and Results
 - [Quiz Scores](feedback/Quiz-Results.pdf) for Quiz 1-3 in [feedback](feedback/) folder. Sequence Diagrams need more study/practice.
 - [Quiz 1 Scores](feedback/Quiz1-Results.pdf) the git quiz. There will be another git quiz (eventually).
 - __February 14:__ [Announcement](/../../issues/1) about work for week4 and team contact.
