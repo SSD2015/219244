@@ -20,7 +20,7 @@ In the next few weeks, we'll study some useful technology.  I hope to cover Unit
 ### Week 6 Lab
 1. TA review of your progress. Be prepared to explain what you've done and what you plan to do this week (see [[Iteration Workflow]]).
 2. Introduction to Design Patterns, with some (hopefully) useful patterns.
-3. 
+
 ### Week 6 Assignment
 * Complete the design pattern practice exercises. Discuss & submit next week.
 * Act on advice from TAs.  If they make suggestions via issues, either do them or add comment explaining why not.
