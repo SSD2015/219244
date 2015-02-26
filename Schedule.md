@@ -5,7 +5,7 @@
     * In the Roadmap below it lists what you should have by the end of EL1.  Check that you've done them.
 4. Create plan for EL2. Review your plan and issues from EL1 for any work backlog you need to add to EL2.
 
-### Assignment for Week 7
+#### Assignment for Week 7
 * Post your iteration plan in project repo as 'Iteration Plan EL2.md`
 
 ---
@@ -21,7 +21,7 @@ In the next few weeks, we'll study some useful technology.  I hope to cover Unit
 1. TA review of your progress. Be prepared to explain what you've done and what you plan to do this week (see [[Iteration Workflow]]).
 2. Introduction to Design Patterns, with some (hopefully) useful patterns.
 
-### Week 6 Assignment
+#### Week 6 Assignment
 * Complete the design pattern practice exercises. Discuss & submit next week.
 * Act on advice from TAs.  If they make suggestions via issues, either do them or add comment explaining why not.
 * Finish iteration EL1. See _Roadmap for the Next Four Weeks_ (above) for what work products you should have.
