@@ -1,9 +1,21 @@
+### Week 7 Lab
+1. Every team will demo their application.
+2. Discuss and submit the Design Pattern assignment from week 6.
+3. Report results of your retrospective meeting to the TAs individually.
+    * In the Roadmap below it lists what you should have by the end of EL1.  Check that you've done them.
+4. Create plan for EL2. Review your plan and issues from EL1 for any work backlog you need to add to EL2.
+
+### Assignment for Week 7
+* Post your iteration plan in project repo as 'Iteration Plan EL2.md`
+
+
+---
 ### Roadmap for Next Four Weeks
 We are starting Elaboration Iteration 1.  Your team will identify features to implement in EL1. To keep all teams on track, TAs and I will choose a common set of features we want all projects to implement.
 
 By the end of EL1 you must have a running, deployable application.  You must also have good documentation, including a better set of requirements (as UC and Supplemental Requirements) and some design documentation, which you will bundle into a _Software Architecture Document_.  The SAD is for developers, so it isn't as rigorous as the SRS, but it should be accurate and complete.  Record important _design decisions_ in the SAD.  Your Web Frameworks review is a design decision.
 
-During EL1, we'll study some useful technology.  I hope to cover Unit Testing, Logging, Persistence, and a few design patterns.  We will introduce and require teams to use _Issue Tracking_ and Milestones using Github and Waffle.io, and Git _branches_ for development. 
+During EL1, we'll study some useful technology.  I hope to cover Unit Testing, Logging, Persistence, and a few design patterns.  We will introduce and require teams to use _Issue Tracking_ and Milestones using Github and Waffle.io, and Git _branches_ for development.
 
 ---
 ### Week 6 Lab
@@ -12,7 +24,6 @@ During EL1, we'll study some useful technology.  I hope to cover Unit Testing, L
 3. (tba)
 
 ---
-
 ### Week 5 Lab
 1. Review and discussion of teams' **Domain Models**. I will choose a few teams to present, so be prepared.
   * You should be able to relate your Domain Model to your Use Cases and Mock-up.  They should be consistent.
@@ -35,7 +46,6 @@ During EL1, we'll study some useful technology.  I hope to cover Unit Testing, L
     * Updated domain model, including class and sequence diagrams, _accurate_ glossary, some software design notes in SAD.
 
 ---
-
 ### Week 4 Lab
 UML Sequence Diagram practice (reschedule from week3)<br>
 Review of Requirements and Use Cases<br>
@@ -48,7 +58,6 @@ Domain Modeling
 4. Be prepared to explain your Domain Model in lab next week!  2-3 teams will be selected to present.
 
 ---
-
 ### Week 3 Lab
 Quiz on git<br>
 Meet the customer!
@@ -64,7 +73,6 @@ Each team should create a project on Github. On this site create:
 __Due__: Tuesday, 10 Feb, on Github.
 
 ---
-
 ### Week 2 Lab
 UML Practice  
 Git practice (game)
@@ -73,7 +81,6 @@ Git practice (game)
 Form a team of 3-5 people for the class term project, which will begin next week.
 
 ---
-
 ### Week 1
 A "mini-project" as overview of what you will do during your own software project for this course.
 
