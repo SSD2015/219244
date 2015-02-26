@@ -1,5 +1,5 @@
 ### Week 7 Lab
-1. Every team will demo their application.
+1. Each team will demo their application.
 2. Discuss and submit the Design Pattern assignment from week 6.
 3. Report results of your retrospective meeting to the TAs individually.
     * In the Roadmap below it lists what you should have by the end of EL1.  Check that you've done them.
@@ -7,7 +7,6 @@
 
 ### Assignment for Week 7
 * Post your iteration plan in project repo as 'Iteration Plan EL2.md`
-
 
 ---
 ### Roadmap for Next Four Weeks
@@ -21,7 +20,12 @@ In the next few weeks, we'll study some useful technology.  I hope to cover Unit
 ### Week 6 Lab
 1. TA review of your progress. Be prepared to explain what you've done and what you plan to do this week (see [[Iteration Workflow]]).
 2. Introduction to Design Patterns, with some (hopefully) useful patterns.
-3. (tba)
+3. 
+### Week 6 Assignment
+* Complete the design pattern practice exercises. Discuss & submit next week.
+* Act on advice from TAs.  If they make suggestions via issues, either do them or add comment explaining why not.
+* Finish iteration EL1. See _Roadmap for the Next Four Weeks_ (above) for what work products you should have.
+* Have your web app running next week so you can demo it in lab.  It should be reachable from any computer in the lab via web browser.
 
 ---
 ### Week 5 Lab
