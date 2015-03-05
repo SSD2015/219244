@@ -14,13 +14,13 @@
     * You can see your commit history on Github by clicking on "commit".  It shows the commit checksum prefix, like " (you add the revision checksum prefix to the end of `tag` command).  Click on "commits" in Github to see the commit history.
  * **Javadoc**: Write descriptive Javadoc class comments for each class and interface. Include @author tag.  Look at Java API for examples.
 * Create a plan for EL2 in file _Iteration Plan for EL2.md_ on Github. Please don't abbreviate the name.
+    * Include unfinished work from EL1.
 * Review and update your Domain Model.
 * Write fully dressed Use Cases for UC you will implement in this iteration.
 * Please include these goals in EL2 if you haven't already completed them:
     1. Voter can submit his votes/ratings and system records them.
     2. System returns clear acknowledgement when votes/ratngs are received.
     3. Complete domain and software model of design to tally votes.
-
 
 ---
 ### Roadmap for Next Four Weeks
