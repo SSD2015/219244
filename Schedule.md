@@ -12,7 +12,7 @@
 
 * **Add Tag**: Add a [tag](http://git-scm.com/book/en/v2/Git-Basics-Tagging) named "EL1" to mark the Github commit that **corresponds to your work products for end of EL1**.  You can use the `git tag -a` command to create a tag, or Github "releases".
     * If you've added more commits since the end of EL1, please find the commit that corresponds to your final EL1 end products and tag _that_ commit.
-    * You can see your commit history on Github by clicking on "commit".  It shows the commit checksum prefix, like " (you add the revision checksum prefix to the end of `tag` command).  Click on "commits" in Github to see the commit history.
+    * You can see your commit history on Github by clicking on "commits" button.  It shows the commit checksum prefix and commit messages; you can use the prefix as argument to the `tag` command. 
  * **Javadoc**: Write descriptive Javadoc class comments for each class and interface. Include @author tag.  Look at Java API for examples.
 * Create a plan for EL2 in file _Iteration Plan for EL2.md_ on Github. Please don't abbreviate the name.
     * Include unfinished work from EL1.
