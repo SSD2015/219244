@@ -2,9 +2,10 @@
 1. Each team will demo their application.
 2. Discuss and submit the Design Patterns assignment from week 6.
 3. Requirements update.
-4. Discussion of common glossary terms: Rating, Vote/Voting, "Organizer", Administrator,
-    * At eXceedCamp who decides the "voting" criteria?  How many votes different types of user gets? How is winner selected?
-5. Report results of your retrospective meeting to the TAs individually.
+4. Modeling exercise (TBA).
+5. Discussion of common glossary terms: Rating, Vote/Voting, "Organizer", Administrator,
+    * At eXceedCamp **who** decides the "voting" criteria?  How is winner selected?
+6. Report results of your retrospective meeting to the TAs individually.
     * In the Roadmap below it lists what you should have by the end of EL1.  Check that you've done them.
 
 ### Assignment for Week 7
@@ -20,7 +21,9 @@
 * Please include these goals in EL2 if you haven't already completed them:
     1. Voter can submit his votes/ratings and system records them.
     2. System returns clear acknowledgement when votes/ratngs are received.
-    3. Complete domain and software model of design to tally votes.
+    3. Complete domain and software model of design to tally votes/ratings.
+    4. Implement software model for tallying votes/ratings.  Provide a UI to display results.
+    5. Write an Installation document (on Github) describing the steps to install and run your app.
 
 ---
 ### Roadmap for Next Four Weeks
