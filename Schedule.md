@@ -3,13 +3,15 @@
 2. Discuss and submit the Design Patterns assignment from week 6.
 3. Requirements update.
 4. Modeling exercise (TBA).
-5. Discussion of common glossary terms: Rating, Vote/Voting, "Organizer", Administrator,
-    * At eXceedCamp **who** decides the "voting" criteria?  How is winner selected?
+5. Discussion of common glossary terms: Rating, Vote/Voting, "Organizer", Administrator. Many terms are being used for the contentants/entrants such as "Team", "Project", "Group".
 6. Report results of your retrospective meeting to the TAs individually.
     * In the Roadmap below it lists what you should have by the end of EL1.  Check that you've done them.
 
 ### Assignment for Week 7
 
+* **Class Assignment:** Create consistent set of terms and definitions for concepts like (these are my terms) "Ballot Item" (something to vote or judge), "Vote", "Rate", the "contestants" or "entrants" (the things we are voting/rating), "Administrator" (make more specific).  "Organizer" is likewise _way_ too vague.
+    * At eXceed Camp **who** selects the "voting" criteria and scoring method?  How is winner selected?
+    * Create a common glossary for the class.
 * **Add Tag**: Add a [tag](http://git-scm.com/book/en/v2/Git-Basics-Tagging) named "EL1" to mark the Github commit that **corresponds to your work products for end of EL1**.  You can use the `git tag -a` command to create a tag, or Github "releases".
     * If you've added more commits since the end of EL1, please find the commit that corresponds to your final EL1 end products and tag _that_ commit.
     * You can see your commit history on Github by clicking on "commits" button.  It shows the commit checksum prefix and commit messages; you can use the prefix as argument to the `tag` command. 
