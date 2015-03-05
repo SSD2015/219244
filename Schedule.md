@@ -1,12 +1,26 @@
 ### Week 7 Lab
 1. Each team will demo their application.
-2. Discuss and submit the Design Pattern assignment from week 6.
-3. Report results of your retrospective meeting to the TAs individually.
+2. Discuss and submit the Design Patterns assignment from week 6.
+3. Requirements update.
+4. Discussion of common glossary terms: Rating, Vote/Voting, "Organizer", Administrator,
+    * At eXceedCamp who decides the "voting" criteria?  How many votes different types of user gets? How is winner selected?
+5. Report results of your retrospective meeting to the TAs individually.
     * In the Roadmap below it lists what you should have by the end of EL1.  Check that you've done them.
-4. Create plan for EL2. Review your plan and issues from EL1 for any work backlog you need to add to EL2.
 
-#### Assignment for Week 7
-* Post your iteration plan in project repo as 'Iteration Plan EL2.md`
+### Assignment for Week 7
+
+* **Add Tag**: Add a [tag](http://git-scm.com/book/en/v2/Git-Basics-Tagging) named "EL1" to mark the Github commit that **corresponds to your work products for end of EL1**.  You can use the `git tag -a` command to create a tag, or Github "releases".
+    * If you've added more commits since the end of EL1, please find the commit that corresponds to your final EL1 end products and tag _that_ commit.
+    * You can see your commit history on Github by clicking on "commit".  It shows the commit checksum prefix, like " (you add the revision checksum prefix to the end of `tag` command).  Click on "commits" in Github to see the commit history.
+ * **Javadoc**: Write descriptive Javadoc class comments for each class and interface. Include @author tag.  Look at Java API for examples.
+* Create a plan for EL2 in file _Iteration Plan for EL2.md_ on Github. Please don't abbreviate the name.
+* Review and update your Domain Model.
+* Write fully dressed Use Cases for UC you will implement in this iteration.
+* Please include these goals in EL2 if you haven't already completed them:
+    1. Voter can submit his votes/ratings and system records them.
+    2. System returns clear acknowledgement when votes/ratngs are received.
+    3. Complete domain and software model of design to tally votes.
+
 
 ---
 ### Roadmap for Next Four Weeks
