@@ -1,3 +1,14 @@
+### Midterm
+No lab exam during midterm week.
+
+### Week 8 Lab
+1. Unit Testing Intro.
+   * Useful intro: http://users.ece.utexas.edu/~miryung/teaching/EE461L-Spring2012/labs/testing.html
+   * JUnit Home: http://junit.org JUnit is included with Eclipse and Netbeans, but it doesn't have Javadoc or other docs. Download JUnit if you want the Javadoc.
+2. Unit Testing Exercise.
+3. GRASP practice.
+4. Free time to work on project.
+
 ### Week 7 Lab
 1. Each team will demo their application.
 2. Discuss and submit the Design Patterns assignment from week 6.
