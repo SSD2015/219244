@@ -1,12 +1,42 @@
+### Midterm
+No lab exam during midterm week.
+
+### Week 8 Lab
+1. Unit Testing Intro.
+   * Useful intro: http://users.ece.utexas.edu/~miryung/teaching/EE461L-Spring2012/labs/testing.html
+   * JUnit Home: http://junit.org JUnit is included with Eclipse and Netbeans, but it doesn't have Javadoc or other docs. Download JUnit if you want the Javadoc.
+2. Unit Testing Exercise.
+3. GRASP practice.
+4. Free time to work on project.
+
 ### Week 7 Lab
 1. Each team will demo their application.
-2. Discuss and submit the Design Pattern assignment from week 6.
-3. Report results of your retrospective meeting to the TAs individually.
+2. Discuss and submit the Design Patterns assignment from week 6.
+3. Requirements update.
+4. Modeling exercise (TBA).
+5. Discussion of common glossary terms: Rating, Vote/Voting, "Organizer", Administrator. Many terms are being used for the contentants/entrants such as "Team", "Project", "Group".
+6. Report results of your retrospective meeting to the TAs individually.
     * In the Roadmap below it lists what you should have by the end of EL1.  Check that you've done them.
-4. Create plan for EL2. Review your plan and issues from EL1 for any work backlog you need to add to EL2.
 
-#### Assignment for Week 7
-* Post your iteration plan in project repo as 'Iteration Plan EL2.md`
+### Assignment for Week 7
+
+* **Class Assignment:** Create consistent set of terms and definitions for concepts like (these are my terms) "Ballot Item" (something to vote or judge), "Vote", "Rate", the "contestants" or "entrants" (the things we are voting/rating), "Administrator" (make more specific).  "Organizer" is likewise _way_ too vague.
+    * At eXceed Camp **who** selects the "voting" criteria and scoring method?  How is winner selected?
+    * Create a common glossary for the class.
+* **Add Tag**: Add a [tag](http://git-scm.com/book/en/v2/Git-Basics-Tagging) named "EL1" to mark the Github commit that **corresponds to your work products for end of EL1**.  You can use the `git tag -a` command to create a tag, or Github "releases".
+    * If you've added more commits since the end of EL1, please find the commit that corresponds to your final EL1 end products and tag _that_ commit.
+    * You can see your commit history on Github by clicking on "commits" button.  It shows the commit checksum prefix and commit messages; you can use the prefix as argument to the `tag` command. 
+ * **Javadoc**: Write descriptive Javadoc class comments for each class and interface. Include @author tag.  Look at Java API for examples.
+* Create a plan for EL2 in file _Iteration Plan for EL2.md_ on Github. Please don't abbreviate the name.
+    * Include unfinished work from EL1.
+* Review and update your Domain Model.
+* Write fully dressed Use Cases for UC you will implement in this iteration.
+* Please include these goals in EL2 if you haven't already completed them:
+    1. Voter can submit his votes/ratings and system records them.
+    2. System returns clear acknowledgement when votes/ratngs are received.
+    3. Complete domain and software model of design to tally votes/ratings.
+    4. Implement software model for tallying votes/ratings.  Provide a UI to display results.
+    5. Write an Installation document (on Github) describing the steps to install and run your app.
 
 ---
 ### Roadmap for Next Four Weeks
