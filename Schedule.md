@@ -1,6 +1,16 @@
+### Week 10 Lab
+1. Quiz on using JUnit for unit testing.
+
+### Week 9 Lab
+1. Quiz on basics of Play framework. May be be paper or programming.
+2. Demo EL2 work product.
+3. More unit testing.
+
+---
 ### Midterm
 No lab exam during midterm week.
 
+---
 ### Week 8 Lab
 1. Unit Testing Intro.
    * Useful intro: http://users.ece.utexas.edu/~miryung/teaching/EE461L-Spring2012/labs/testing.html
@@ -9,6 +19,11 @@ No lab exam during midterm week.
 3. GRASP practice.
 4. Free time to work on projects.
 
+#### Week 8 Assignment
+* Prepare to demo your EL2 work product next week.
+* Please study how to use JUnit and how to write test cases.
+
+---
 ### Week 7 Lab
 1. Each team will demo their application.
 2. Discuss and submit the Design Patterns assignment from week 6.
@@ -18,7 +33,7 @@ No lab exam during midterm week.
 6. Report results of your retrospective meeting to the TAs individually.
     * In the Roadmap below it lists what you should have by the end of EL1.  Check that you've done them.
 
-### Assignment for Week 7
+#### Week 7 Assignment
 
 * **Class Assignment:** Create consistent set of terms and definitions for concepts like (these are my terms) "Ballot Item" (something to vote or judge), "Vote", "Rate", the "contestants" or "entrants" (the things we are voting/rating), "Administrator" (make more specific).  "Organizer" is likewise _way_ too vague.
     * At eXceed Camp **who** selects the "voting" criteria and scoring method?  How is winner selected?
