@@ -3,7 +3,7 @@
 
 ### Week 9 Lab
 1. Quiz on basics of Play framework. May be be paper or programming.
-2. Demo EL2 work product.
+2. Demo EL2 work product.  TAs and instructor will choose a team member to demonstrate, so everyone should be prepared to explain and demo.
 3. More unit testing.
 
 ---
