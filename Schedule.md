@@ -1,6 +1,6 @@
 ### Construction Iteration 1
 
-#### Evaluating Usability
+#### Features
 By end of this iteration, your application should implement these features:
 
 1. **Login Required** - must login to view pages.
@@ -9,6 +9,7 @@ By end of this iteration, your application should implement these features:
 4. **Administrative Interface** - users with admin privilege can manage contestants, voting criteria, and voting period.
 5. **Compute and Display Results** - application computes "winner" for Criterion topics, and ratings (for each contestant) for Rating topics.
 
+#### Usability
 Based on what Aj. Panpiti said and wrote, eXceedVote should have these characteristics.
 
 1. **Intuitive** - people can vote without any training.  App should have obvious navigation and prompts.
