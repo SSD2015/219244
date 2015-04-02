@@ -11,10 +11,11 @@ By end of this iteration, your application should implement these features:
 
 Based on what Aj. Panpiti said and wrote, eXceedVote should have these characteristics.
 
-1. **Intuitive** - people can vote without any training.  App should have obvious navigation or prompts.
-2. **Fast voting** - user can vote quickly. Don't need to navigate a lot.
-3. **Feedback** - user can see what he has done so far.
+1. **Intuitive** - people can vote without any training.  App should have obvious navigation and prompts.
+2. **Fast voting** - can vote quickly. Don't need to navigate a lot.
+3. **Feedback and Confirmation** - user can see what he has done so far.
 4. **Easy to Navigate** - easy screen should show how to get around. Never need to user browser 'back' button.
+5. **Low Cognitive Load**
 
 
 ### Week 10 Lab
