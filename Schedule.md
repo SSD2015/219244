@@ -1,3 +1,22 @@
+### Construction Iteration 1
+
+#### Evaluating Usability
+By end of this iteration, your application should implement these features:
+
+1. **Login Required** - must login to view pages.
+2. **Vote by Criterion** - user can vote for own contestant (project) for each criterion. There may be several criteria like "Most complete implementation", "Most creative app".
+3. **Ratings** - user can assign ratings to each contestant (project). There should be a clear description of what the rating is for, and there may be more than one rating topic, such as "Playability", "User Interface".
+4. **Administrative Interface** - users with admin privilege can manage contestants, voting criteria, and voting period.
+5. **Compute and Display Results** - application computes "winner" for Criterion topics, and ratings (for each contestant) for Rating topics.
+
+Based on what Aj. Panpiti said and wrote, eXceedVote should have these characteristics.
+
+1. **Intuitive** - people can vote without any training.  App should have obvious navigation or prompts.
+2. **Fast voting** - user can vote quickly. Don't need to navigate a lot.
+3. **Feedback** - user can see what he has done so far.
+4. **Easy to Navigate** - easy screen should show how to get around. Never need to user browser 'back' button.
+
+
 ### Week 10 Lab
 1. Quiz on using JUnit for unit testing.
 
