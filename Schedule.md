@@ -1,4 +1,20 @@
-### Construction Iteration 1
+### Week 12 (after Songkran)
+**No lab this week**
+
+**Assignment**: Preliminary round of _Voting for ExceedVote_. Details to be added.
+
+---
+### Week 11
+1. Quiz on using JUnit
+2. Authentication and intercepters in Play.  Intercepters let you easily and consistently secure all your non-public resources.  The Play tutorial section on [Adding Authentication](https://www.playframework.com/documentation/2.2.x/JavaGuide4) describes how.
+
+***Assignment:*** Review security of your application.
+
+* Ensure that all non-public pages are protected the security checks, and unauthenticated users are redirected.
+* Use Play intercepters, not custom `if` tests in controllers to handle security.
+
+---
+### Week 10: Start Construction Iteration 1
 
 #### Features
 By end of this iteration, your application should implement these features:
@@ -18,10 +34,10 @@ Based on what Aj. Panpiti said and wrote, eXceedVote should have these character
 4. **Easy to Navigate** - easy screen should show how to get around. Never need to user browser 'back' button.
 5. **Low Cognitive Load**
 
+#### Assignment
+Create `Iteration Plan CO1.md` according to the template and add it to your project repository.
 
-### Week 10 Lab
-1. Quiz on using JUnit for unit testing.
-
+---
 ### Week 9 Lab
 1. Quiz on basics of Play framework. May be be paper or programming.
 2. Demo EL2 work product.  TAs and instructor will choose a team member to demonstrate, so everyone should be prepared to explain and demo.
