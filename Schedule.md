@@ -1,7 +1,7 @@
 ### Week 12 (after Songkran)
 **No lab this week**
 
-**Assignment**: Preliminary round of _Voting for ExceedVote_. Details to be added.
+**Assignment**: [ExceedVoting](https://github.com/SSD2015/219244/wiki/ExceedVoting). Field test your applications with a friendly competition of ... your applications.
 
 ---
 ### Week 11
