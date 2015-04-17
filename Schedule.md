@@ -3,6 +3,19 @@
 
 **Assignment**: [ExceedVoting](https://github.com/SSD2015/219244/wiki/ExceedVoting). Field test your applications with a friendly competition of ... your applications.
 
+**Due Dates**:
+* 17 April - **Register** your team as contestant [Here](https://github.com/SSD2015/219244/wiki/Home).  Then I'll send the sysadmin a file containing voter data.
+* 18 Apr (Sat) - 19 Apr (Sun) - **Preview** everyone login as voter to 4 apps you will be voting on and try them, so you know how you want to vote.  You can vote/rate (mock voting), but votes won't count yet.
+* 19 Apr 17:00 - **Preview results** Mock voting is closed and mock results are posted on each site. Please check them, since "show results" is one of the requirements.
+* 20 Apr (Mon) - **Prepare for Prelim Round of Voting** prepare you app for Prelim Round of voting. Remove mock votes.
+* 21 Apr (Tue) 12:00-18:00 - **Preliminary Round of Voting**, please login to all 4 apps and make identical votes.  Your votes determine which apps advance to the finals. Ratings help the teams improve their apps.
+* 21 Apr (Tue) 19:00 or earlier - **Prelminary Results Available** apps show prelim results.  Every app in same division should (hopefully) show same results.
+* 22 Apr (Wed) - **Final Preview** Four finalists apps are available for everyone to login and try them.  Mock voting (again).
+* 22 Apr (Wed) 18:00 - **Preview Results** finalists display the results of mock voting.
+* 23 Apr (Thu) 9:00 - **Finalists Demo** demo the admin interface in class. Optionally demo mobile features.
+* 23 Apr (Thu) 9:30 - **Final Round of Voting** everyone vote on each of the final 4 apps.
+* 23 Apr (Thu) 10:00 - ** Final Round Results** and retrospective.
+
 ---
 ### Week 11
 1. Quiz on using JUnit
