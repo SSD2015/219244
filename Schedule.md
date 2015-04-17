@@ -14,7 +14,7 @@
 * 22 Apr (Wed) 18:00 - **Preview Results** finalists display the results of mock voting.
 * 23 Apr (Thu) 9:00 - **Finalists Demo** demo the admin interface in class. Optionally demo mobile features.
 * 23 Apr (Thu) 9:30 - **Final Round of Voting** everyone vote on each of the final 4 apps.
-* 23 Apr (Thu) 10:00 - ** Final Round Results** and retrospective.
+* 23 Apr (Thu) 10:00 - **Final Round Results** and retrospective.
 
 ---
 ### Week 11
