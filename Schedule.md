@@ -1,3 +1,9 @@
+### Week 15
+
+
+### Week 14
+Programming exercise for Factory Method and properties (using Play's application.conf for properties).  Properties are a mechanism for implementing protected variations and the Open-Closed Principle.
+
 ### Week 12 (after Songkran)
 **No lab this week**
 
