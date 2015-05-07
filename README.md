@@ -2,7 +2,7 @@
 | Team              | URL for Voting                  | Contact (for problems) |
 | ----------------- | --------------------------------|----------------|
 | [2Big2Slim][] | http://2big2slim.linuxd.org:9000 | punpikorn.r (KU mail) & Punpikorn Rattanawirojkul (facebook) |
-| [Saint4][]        | http://exceedvote.teamsaint4.tk/ | Runyasak Chaengnaimuang (world.jadi@gmail.com)|
+| [Saint4][]        | http://teamsaint4.tk:9000/login | Runyasak Chaengnaimuang (world.jadi@gmail.com)|
 | [FatCat][]        | http://fatcat.nagi.in.th/       |  Nichy Han (facebook)          |
 | [Manat][]         | http://exceed.givto.me/         | chinnaporn.s (KU mail)  |
 | [GG][]        | https://gg.whs.in.th/mobile/    | manatsawin gmail  |
