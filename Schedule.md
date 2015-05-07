@@ -1,4 +1,7 @@
 ### Week 15
+* Mobile voting exercise.
+* How to compute [voting results](https://github.com/SSD2015/219244/wiki/Design-of-Results-Calculator)?
+* Some [Coding Guidelines](https://github.com/SSD2015/219244/wiki/Coding-Guidelines).
 
 
 ### Week 14
