@@ -5,8 +5,8 @@
 | __Weekly Lab Materials__ | weekly folders in this repository (SSD2015/219244). Formerly at http://se.cpe.ku.ac.th/219244 |
 
 #### Feedback and Results
-- [Quiz 4 Scores](feedback/Quiz4-Results.pdf) the JUnit quiz. 
-- [Quiz Scores](feedback/Quiz-Results.pdf) for Quiz 1-3 in [feedback](feedback/) folder. Sequence Diagrams need more study/practice.
+- [Quiz 5 Scores](feedback/Quiz5-Results.pdf) the JUnit quiz. 
+- [Quiz Scores](feedback/Quiz-Results.pdf) for Quiz 1-4 in [feedback](feedback/) folder. Sequence Diagrams need more study/practice.
 - [Quiz 1 Scores](feedback/Quiz1-Results.pdf) the git quiz.
 - __February 14:__ [Announcement](/../../issues/1) about work for week4 and team contact.
 - __February 14:__ [Feedback and Guidance on Vsion, Mock-up, Modeling, and Tips](https://docs.google.com/document/d/1HRUg6MfWvXEZsRorhN8fWyTB5l98V9Yz6XzOS1n5AmA/edit).
