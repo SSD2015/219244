@@ -196,9 +196,9 @@ For today you will work in teams of 5.  You may choose a _different_ team later 
 
 The activities to perform are:
 
-* Find out [[Requirements|what the customer wants]].
-* Jointly develop a [[Vision Statement|Vision]] of the solution. Ask questions, draw mock-ups of what the solution will look like, investigate existing or similar projects.
-* Write a [[Vision Statement]] (usually 2 pages) to guide your work.  The Vision helps keep your team on track and avoid feature creep.
+* Find out [Requirements|what the customer wants].
+* Jointly develop a [Vision Statement|Vision] of the solution. Ask questions, draw mock-ups of what the solution will look like, investigate existing or similar projects.
+* Write a [Vision Statement] (usually 2 pages) that unifies everyone's vision of the product.  The Vision helps keep your team on track and avoid feature creep.
 * Discover requirements. In this case we will only write "user stories" or "informal use cases" that describe major features. (There are many other kinds of requirements.)
 * Plan the first iteration.  What can you implement '''today'''?
 * Design software for the first iteration. -- Use the whiteboards.
